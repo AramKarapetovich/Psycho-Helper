@@ -1,0 +1,34 @@
+body{
+    background: #fce0de;
+    font-family: 'Lilita One', cursive;
+    
+    font-size: 12px;
+    line-height: 1.6;
+    
+}
+*,
+*:befor
+*:after {
+    box-sizing: border-box;
+}
+
+
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+}
+
+/* Conteiner */
+.container
+{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Intro */
+.intro
+{
+    width: 100%;
+    height: 100vh;
+}
